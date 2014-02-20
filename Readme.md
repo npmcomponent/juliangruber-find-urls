@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [juliangruber/find-urls](http://github.com/juliangruber/find-urls). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/juliangruber-find-urls`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 
 # find-urls
 

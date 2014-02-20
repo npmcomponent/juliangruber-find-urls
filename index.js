@@ -1,4 +1,4 @@
-var isUrl = require('regexps').url;
+var isUrl = require('component-regexps').url;
 
 /**
  * Find all urls in `text`.
